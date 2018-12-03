@@ -1,0 +1,5 @@
+Download dataset from 
+
+http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+
+(detailed links are mentioned in driver code -> bin/test_objectness.py)
