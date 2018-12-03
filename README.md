@@ -11,7 +11,7 @@ Number of Win w/o objectness measure | 1699 | 1414 | 1414 | 2103 | 1414 | 1414 |
 Number of Win objectness measure | 31 | 64 | 47 | 51 | 114 | 10 |1 | 1 | 3 | 3
 
 *Folder Structure:*
-'''
+'''bash
 Code-> Bin
     -> data->config
            ->datasets-> CelebA
